@@ -1,0 +1,1711 @@
+0 info it worked if it ends with ok
+1 verbose cli [
+1 verbose cli   '/nix/store/dj805sw07vvpbxx39c8g67x8qddg0ikw-nodejs-18.12.1/bin/node',
+1 verbose cli   '/home/runner/botwa/node_modules/.bin/npm',
+1 verbose cli   'install',
+1 verbose cli   'jimp',
+1 verbose cli   '_0x5943b0(0x11e)',
+1 verbose cli   '_0x5943b0(0x122)',
+1 verbose cli   'path.join(pluginFolder,@filename)',
+1 verbose cli   'dir',
+1 verbose cli   'jsbarcode',
+1 verbose cli   'file',
+1 verbose cli   'xmldom',
+1 verbose cli   'steno',
+1 verbose cli   'ws',
+1 verbose cli   '_0x5943b0(0x13a)'
+1 verbose cli ]
+2 info using npm@2.15.12
+3 info using node@v18.12.1
+4 verbose install initial load of /home/runner/botwa/package.json
+5 warn package.json NaaMD@9.9.9 license should be a valid SPDX license expression
+6 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/abab/package.json
+7 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/abbrev/package.json
+8 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/accepts/package.json
+9 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/acorn/package.json
+10 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/acorn-globals/package.json
+11 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/acorn-loose/package.json
+12 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/acorn-node/package.json
+13 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/acorn-walk/package.json
+14 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/acrcloud/package.json
+15 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/agent-base/package.json
+16 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/agentkeepalive/package.json
+17 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/aggregate-error/package.json
+18 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/ajv/package.json
+19 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/aki-api-v2/package.json
+20 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/anonfile-lib/package.json
+21 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/ansi/package.json
+22 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/ansi-escapes/package.json
+23 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/ansi-regex/package.json
+24 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/ansi-styles/package.json
+25 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/any-base/package.json
+26 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/api-dylux/package.json
+27 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/app-path/package.json
+28 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/aproba/package.json
+29 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/archiver/package.json
+30 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/archiver-utils/package.json
+31 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/are-we-there-yet/package.json
+32 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/args/package.json
+33 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/array-back/package.json
+34 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/array-differ/package.json
+35 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/array-flatten/package.json
+36 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/array-range/package.json
+37 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/array-union/package.json
+38 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/arrify/package.json
+39 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/asn1/package.json
+40 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/assert/package.json
+41 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/assert-plus/package.json
+42 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/astral-regex/package.json
+43 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/async/package.json
+44 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/async.parallellimit/package.json
+45 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/async.util.eachoflimit/package.json
+46 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/async.util.isarray/package.json
+47 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/async.util.isarraylike/package.json
+48 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/async.util.keyiterator/package.json
+49 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/async.util.keys/package.json
+50 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/async.util.noop/package.json
+51 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/async.util.once/package.json
+52 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/async.util.onlyonce/package.json
+53 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/async.util.parallel/package.json
+54 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/async.util.restparam/package.json
+55 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/asynckit/package.json
+56 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/atomic-sleep/package.json
+57 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/available-typed-arrays/package.json
+58 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/awesome-phonenumber/package.json
+59 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/aws-sign2/package.json
+60 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/aws4/package.json
+61 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/axios/package.json
+62 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/baileys/package.json
+63 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/balanced-match/package.json
+64 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/base64-js/package.json
+65 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/base64-to-image/package.json
+66 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/base64id/package.json
+67 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/bcrypt-pbkdf/package.json
+68 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/big-integer/package.json
+69 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/binary/package.json
+70 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/biskviit/package.json
+71 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/bl/package.json
+72 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/bluebird/package.json
+73 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/bmp-js/package.json
+74 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/body-parser/package.json
+75 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/boolbase/package.json
+76 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/boolstring/package.json
+77 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/bowser/package.json
+78 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/brace-expansion/package.json
+79 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/brainly-scraper/package.json
+80 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/brainly-scraper-v2/package.json
+81 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/browser-process-hrtime/package.json
+82 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/bson/package.json
+83 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/buffer/package.json
+84 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/buffer-crc32/package.json
+85 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/buffer-equal/package.json
+86 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/buffer-from/package.json
+87 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/buffer-indexof-polyfill/package.json
+88 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/buffers/package.json
+89 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/bytes/package.json
+90 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/cacache/package.json
+91 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/cacheable-lookup/package.json
+92 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/cacheable-request/package.json
+93 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/call-bind/package.json
+94 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/camelcase/package.json
+95 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/caseless/package.json
+96 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/cfonts/package.json
+97 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/chainsaw/package.json
+98 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/chalk/package.json
+99 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/chance/package.json
+100 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/char-regex/package.json
+101 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/charenc/package.json
+102 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/cheerio/package.json
+103 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/cheerio-select/package.json
+104 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/child_process/package.json
+105 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/chownr/package.json
+106 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/class-validator/package.json
+107 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/clean-stack/package.json
+108 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/cli-color/package.json
+109 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/cli-cursor/package.json
+110 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/cli-spinners/package.json
+111 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/cliui/package.json
+112 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/clone/package.json
+113 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/clone-response/package.json
+114 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/color/package.json
+115 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/color-convert/package.json
+116 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/color-name/package.json
+117 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/color-string/package.json
+118 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/color-support/package.json
+119 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/colorette/package.json
+120 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/colors/package.json
+121 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/combined-stream/package.json
+122 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/command-line-args/package.json
+123 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/commander/package.json
+124 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/complex.js/package.json
+125 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/component-emitter/package.json
+126 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/compress-commons/package.json
+127 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/concat-map/package.json
+128 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/configstore/package.json
+129 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/console-control-strings/package.json
+130 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/content-disposition/package.json
+131 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/content-type/package.json
+132 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/cookie/package.json
+133 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/cookie-signature/package.json
+134 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/cookiejar/package.json
+135 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/core-util-is/package.json
+136 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/cors/package.json
+137 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/crc/package.json
+138 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/crc-32/package.json
+139 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/crc32-stream/package.json
+140 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/cross-fetch/package.json
+141 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/cross-spawn/package.json
+142 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/crypt/package.json
+143 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/crypto/package.json
+144 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/crypto-random-string/package.json
+145 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/css-select/package.json
+146 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/css-select-browser-adapter/package.json
+147 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/css-what/package.json
+148 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/cssom/package.json
+149 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/cssstyle/package.json
+150 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/curve25519-js/package.json
+151 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/cycled/package.json
+152 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/d/package.json
+153 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/dandi-api/package.json
+154 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/dashdash/package.json
+155 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/dasu/package.json
+156 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/data-urls/package.json
+157 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/dateformat/package.json
+158 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/debug/package.json
+159 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/decamelize/package.json
+160 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/decimal.js/package.json
+161 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/decode-gif/package.json
+162 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/decompress-response/package.json
+163 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/deep-extend/package.json
+164 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/deep-is/package.json
+165 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/defaults/package.json
+166 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/defer-to-connect/package.json
+167 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/define-properties/package.json
+168 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/define-property/package.json
+169 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/delay/package.json
+170 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/delayed-stream/package.json
+171 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/delegates/package.json
+172 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/deobfuscator/package.json
+173 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/depd/package.json
+174 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/destroy/package.json
+175 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/detect-libc/package.json
+176 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/devtools-protocol/package.json
+177 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/dhn-api/package.json
+178 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/didyoumean/package.json
+179 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/dijkstrajs/package.json
+180 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/discontinuous-range/package.json
+181 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/dom-serializer/package.json
+182 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/dom-walk/package.json
+183 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/domelementtype/package.json
+184 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/domexception/package.json
+185 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/domhandler/package.json
+186 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/domutils/package.json
+187 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/dot-prop/package.json
+188 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/dotenv/package.json
+189 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/duplexer2/package.json
+190 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/duplexer3/package.json
+191 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/duplexify/package.json
+192 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/ecc-jsbn/package.json
+193 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/ee-first/package.json
+194 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/emoji-api/package.json
+195 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/emoji-regex/package.json
+196 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/encode-utf8/package.json
+197 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/encodeurl/package.json
+198 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/encoding/package.json
+199 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/end-of-stream/package.json
+200 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/engine.io/package.json
+201 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/engine.io-parser/package.json
+202 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/entities/package.json
+203 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/env-paths/package.json
+204 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/err-code/package.json
+205 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/es5-ext/package.json
+206 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/es6-iterator/package.json
+207 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/es6-object-assign/package.json
+208 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/es6-symbol/package.json
+209 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/es6-weak-map/package.json
+210 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/escalade/package.json
+211 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/escape-html/package.json
+212 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/escape-latex/package.json
+213 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/escape-string-regexp/package.json
+214 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/escodegen/package.json
+215 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/eslint-scope/package.json
+216 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/eslint-visitor-keys/package.json
+217 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/esprima/package.json
+218 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/esrecurse/package.json
+219 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/estraverse/package.json
+220 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/esutils/package.json
+221 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/etag/package.json
+222 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/event-emitter/package.json
+223 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/eventemitter-asyncresource/package.json
+224 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/execa/package.json
+225 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/exif-parser/package.json
+226 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/expand-template/package.json
+227 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/express/package.json
+228 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/ext/package.json
+229 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/extend/package.json
+230 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/extract-zip/package.json
+231 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/extsprintf/package.json
+232 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/fake-useragent/package.json
+233 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/fast-deep-equal/package.json
+234 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/fast-json-stable-stringify/package.json
+235 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/fast-levenshtein/package.json
+236 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/fast-redact/package.json
+237 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/fast-safe-stringify/package.json
+238 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/fast-xml-parser/package.json
+239 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/fd-slicer/package.json
+240 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/fetch/package.json
+241 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/file-type/package.json
+242 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/finalhandler/package.json
+243 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/find-replace/package.json
+244 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/find-up/package.json
+245 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/fluent-ffmpeg/package.json
+246 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/follow-redirects/package.json
+247 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/for-each/package.json
+248 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/forever-agent/package.json
+249 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/form-data/package.json
+250 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/formidable/package.json
+251 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/forwarded/package.json
+252 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/fraction.js/package.json
+253 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/fresh/package.json
+254 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/fs-constants/package.json
+255 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/fs-extra/package.json
+256 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/fs-minipass/package.json
+257 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/fs.realpath/package.json
+258 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/fstream/package.json
+259 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/function-bind/package.json
+260 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/futoin-hkdf/package.json
+261 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/g-i-s/package.json
+262 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/gauge/package.json
+263 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/genshin/package.json
+264 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/get-caller-file/package.json
+265 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/get-intrinsic/package.json
+266 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/get-stream/package.json
+267 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/getpass/package.json
+268 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/gifwrap/package.json
+269 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/github-from-package/package.json
+270 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/glob/package.json
+271 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/global/package.json
+272 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/google-it/package.json
+273 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/gopd/package.json
+274 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/got/package.json
+275 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/graceful-fs/package.json
+276 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/growtopia-api/package.json
+277 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/har-schema/package.json
+278 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/har-validator/package.json
+279 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/has/package.json
+280 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/has-flag/package.json
+281 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/has-property-descriptors/package.json
+282 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/has-symbols/package.json
+283 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/has-tostringtag/package.json
+284 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/has-unicode/package.json
+285 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/hdr-histogram-js/package.json
+286 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/hdr-histogram-percentiles-obj/package.json
+287 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/he/package.json
+288 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/html-encoding-sniffer/package.json
+289 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/html-to-text/package.json
+290 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/htmlparser2/package.json
+291 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/http-cache-semantics/package.json
+292 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/http-errors/package.json
+293 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/http-proxy-agent/package.json
+294 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/http-signature/package.json
+295 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/http2-wrapper/package.json
+296 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/https-proxy-agent/package.json
+297 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/human-readable/package.json
+298 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/human-signals/package.json
+299 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/human-time/package.json
+300 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/humanize-ms/package.json
+301 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/hxz-api/package.json
+302 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/iconv-lite/package.json
+303 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/ieee754/package.json
+304 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/image-q/package.json
+305 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/image-size/package.json
+306 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/image-to-base64/package.json
+307 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/imagemagick/package.json
+308 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/imgbb-uploader/package.json
+309 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/imurmurhash/package.json
+310 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/indent-string/package.json
+311 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/infer-owner/package.json
+312 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/inflight/package.json
+313 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/inherits/package.json
+314 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/ini/package.json
+315 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/insta-fetcher/package.json
+316 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/instagram-url-direct/package.json
+317 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/install-artifact-from-github/package.json
+318 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/instatouch/package.json
+319 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/inversify/package.json
+320 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/ip/package.json
+321 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/ip-regex/package.json
+322 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/ipaddr.js/package.json
+323 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/is-accessor-descriptor/package.json
+324 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/is-arguments/package.json
+325 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/is-arrayish/package.json
+326 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/is-buffer/package.json
+327 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/is-callable/package.json
+328 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/is-data-descriptor/package.json
+329 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/is-descriptor/package.json
+330 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/is-fullwidth-code-point/package.json
+331 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/is-function/package.json
+332 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/is-generator-function/package.json
+333 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/is-interactive/package.json
+334 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/is-lambda/package.json
+335 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/is-nan/package.json
+336 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/is-number/package.json
+337 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/is-obj/package.json
+338 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/is-potential-custom-element-name/package.json
+339 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/is-promise/package.json
+340 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/is-stream/package.json
+341 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/is-typed-array/package.json
+342 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/is-typedarray/package.json
+343 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/isarray/package.json
+344 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/isexe/package.json
+345 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/isstream/package.json
+346 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/iterm2-version/package.json
+347 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/javascript-natural-sort/package.json
+348 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/javascript-obfuscator/package.json
+349 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/jimp/package.json
+350 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/joycon/package.json
+351 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/jpeg-js/package.json
+352 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/js-string-escape/package.json
+353 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/jsbn/package.json
+354 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/jsdom/package.json
+355 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/jsdon/package.json
+356 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/json-buffer/package.json
+357 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/json-schema/package.json
+358 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/json-schema-traverse/package.json
+359 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/json-stringify-safe/package.json
+360 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/json2csv/package.json
+361 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/jsonfile/package.json
+362 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/jsonparse/package.json
+363 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/jsonpath-plus/package.json
+364 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/jsprim/package.json
+365 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/jsqr/package.json
+366 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/kareem/package.json
+367 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/keypress/package.json
+368 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/keyv/package.json
+369 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/kind-of/package.json
+370 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/lazystream/package.json
+371 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/leven/package.json
+372 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/levenshtein-edit-distance/package.json
+373 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/levn/package.json
+374 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/libphonenumber-js/package.json
+375 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/libsignal/package.json
+376 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/listenercount/package.json
+377 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/load-bmfont/package.json
+378 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/locate-path/package.json
+379 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/lodash/package.json
+380 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/lodash.camelcase/package.json
+381 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/lodash.defaults/package.json
+382 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/lodash.difference/package.json
+383 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/lodash.flatten/package.json
+384 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/lodash.get/package.json
+385 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/lodash.isplainobject/package.json
+386 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/lodash.pad/package.json
+387 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/lodash.padend/package.json
+388 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/lodash.padstart/package.json
+389 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/lodash.union/package.json
+390 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/log-symbols/package.json
+391 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/log-update/package.json
+392 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/long/package.json
+393 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/lowdb/package.json
+394 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/lowercase-keys/package.json
+395 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/lru-cache/package.json
+396 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/lru-queue/package.json
+397 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/lyrics-finder/package.json
+398 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/m3u8stream/package.json
+399 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/make-dir/package.json
+400 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/make-fetch-happen/package.json
+401 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/mathjs/package.json
+402 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/md5/package.json
+403 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/media-typer/package.json
+404 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/memoizee/package.json
+405 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/memory-pager/package.json
+406 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/merge-descriptors/package.json
+407 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/merge-stream/package.json
+408 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/mersenne-twister/package.json
+409 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/methods/package.json
+410 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/mime/package.json
+411 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/mime-db/package.json
+412 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/mime-types/package.json
+413 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/mimic-fn/package.json
+414 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/mimic-response/package.json
+415 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/min-document/package.json
+416 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/miniget/package.json
+417 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/minimatch/package.json
+418 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/minimist/package.json
+419 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/minipass/package.json
+420 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/minipass-collect/package.json
+421 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/minipass-fetch/package.json
+422 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/minipass-flush/package.json
+423 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/minipass-pipeline/package.json
+424 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/minipass-sized/package.json
+425 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/minizlib/package.json
+426 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/mkdirp/package.json
+427 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/mkdirp-classic/package.json
+428 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/moment/package.json
+429 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/moment-timezone/package.json
+430 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/mongodb/package.json
+431 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/mongodb-connection-string-url/package.json
+432 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/mongoose/package.json
+433 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/moo/package.json
+434 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/mpath/package.json
+435 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/mquery/package.json
+436 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/mri/package.json
+437 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/ms/package.json
+438 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/multimatch/package.json
+439 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/multistream/package.json
+440 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/music-metadata/package.json
+441 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/mute-stream/package.json
+442 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/nan/package.json
+443 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/napi-build-utils/package.json
+444 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/nearley/package.json
+445 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/negotiator/package.json
+446 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/next-tick/package.json
+447 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/nice-napi/package.json
+448 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/node-abi/package.json
+449 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/node-addon-api/package.json
+450 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/node-cache/package.json
+451 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/node-fetch/package.json
+452 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/node-fzf/package.json
+453 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/node-gtts/package.json
+454 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/node-gyp/package.json
+455 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/node-gyp-build/package.json
+456 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/node-html-parser/package.json
+457 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/node-os-utils/package.json
+458 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/node-scrapy/package.json
+459 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/node-tesseract-ocr/package.json
+460 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/node-webpmux/package.json
+461 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/nodemailer/package.json
+462 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/nopt/package.json
+463 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/normalize-path/package.json
+464 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/normalize-url/package.json
+465 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/npm/package.json
+466 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/npm-run-path/package.json
+467 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/npmlog/package.json
+468 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/nth-check/package.json
+469 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/nwsapi/package.json
+470 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/oauth-sign/package.json
+471 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/object-assign/package.json
+472 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/object-inspect/package.json
+473 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/object-is/package.json
+474 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/object-keys/package.json
+475 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/ocr-space-api-wrapper/package.json
+476 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/omggif/package.json
+477 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/on-exit-leak-free/package.json
+478 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/on-finished/package.json
+479 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/once/package.json
+480 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/onetime/package.json
+481 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/openai/package.json
+482 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/opencollective-postinstall/package.json
+483 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/optionator/package.json
+484 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/ora/package.json
+485 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/p-cancelable/package.json
+486 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/p-limit/package.json
+487 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/p-locate/package.json
+488 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/p-map/package.json
+489 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/p-try/package.json
+490 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/pako/package.json
+491 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/parse-bmfont-ascii/package.json
+492 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/parse-bmfont-binary/package.json
+493 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/parse-bmfont-xml/package.json
+494 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/parse-headers/package.json
+495 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/parse5/package.json
+496 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/parse5-htmlparser2-tree-adapter/package.json
+497 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/parseurl/package.json
+498 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/paste.gg/package.json
+499 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/path/package.json
+500 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/path-exists/package.json
+501 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/path-is-absolute/package.json
+502 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/path-key/package.json
+503 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/path-to-regexp/package.json
+504 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/peek-readable/package.json
+505 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/pend/package.json
+506 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/peok/package.json
+507 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/perf_hooks/package.json
+508 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/performance-now/package.json
+509 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/phin/package.json
+510 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/pino/package.json
+511 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/pino-abstract-transport/package.json
+512 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/pino-pretty/package.json
+513 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/pino-std-serializers/package.json
+514 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/piscina/package.json
+515 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/pixelmatch/package.json
+516 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/pkg-dir/package.json
+517 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/plist/package.json
+518 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/pngjs/package.json
+519 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/prebuild-install/package.json
+520 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/prelude-ls/package.json
+521 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/prepend-http/package.json
+522 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/prettier/package.json
+523 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/process/package.json
+524 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/process-nextick-args/package.json
+525 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/process-warning/package.json
+526 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/progress/package.json
+527 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/promise-inflight/package.json
+528 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/promise-retry/package.json
+529 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/protobufjs/package.json
+530 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/proxy-addr/package.json
+531 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/proxy-from-env/package.json
+532 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/psl/package.json
+533 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/publish/package.json
+534 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/pump/package.json
+535 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/punycode/package.json
+536 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/puppeteer/package.json
+537 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/qrcode/package.json
+538 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/qrcode-terminal/package.json
+539 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/qs/package.json
+540 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/querystring/package.json
+541 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/querystringify/package.json
+542 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/queue/package.json
+543 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/quick-format-unescaped/package.json
+544 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/quick-lru/package.json
+545 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/railroad-diagrams/package.json
+546 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/randexp/package.json
+547 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/range-parser/package.json
+548 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/raw-body/package.json
+549 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/rc/package.json
+550 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/re2/package.json
+551 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/readable-stream/package.json
+552 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/readable-web-to-node-stream/package.json
+553 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/readdir-glob/package.json
+554 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/real-require/package.json
+555 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/redstar/package.json
+556 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/reflect-metadata/package.json
+557 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/regenerator-runtime/package.json
+558 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/render-gif/package.json
+559 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/request/package.json
+560 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/request-promise/package.json
+561 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/request-promise-core/package.json
+562 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/require-directory/package.json
+563 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/require-main-filename/package.json
+564 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/requires-port/package.json
+565 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/resolve-alpn/package.json
+566 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/responselike/package.json
+567 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/restore-cursor/package.json
+568 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/ret/package.json
+569 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/retry/package.json
+570 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/rfdc/package.json
+571 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/rimraf/package.json
+572 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/safe-buffer/package.json
+573 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/safe-stable-stringify/package.json
+574 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/safer-buffer/package.json
+575 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/saslprep/package.json
+576 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/sax/package.json
+577 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/saxes/package.json
+578 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/scrape-primbon/package.json
+579 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/secure-json-parse/package.json
+580 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/seedrandom/package.json
+581 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/semver/package.json
+582 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/send/package.json
+583 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/serve-static/package.json
+584 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/set-blocking/package.json
+585 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/setimmediate/package.json
+586 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/setprototypeof/package.json
+587 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/sharp/package.json
+588 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/shebang-command/package.json
+589 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/shebang-regex/package.json
+590 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/side-channel/package.json
+591 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/sift/package.json
+592 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/signal-exit/package.json
+593 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/similarity/package.json
+594 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/simple-concat/package.json
+595 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/simple-get/package.json
+596 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/simple-swizzle/package.json
+597 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/slice-ansi/package.json
+598 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/smart-buffer/package.json
+599 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/socket.io/package.json
+600 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/socket.io-adapter/package.json
+601 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/socket.io-parser/package.json
+602 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/socks/package.json
+603 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/socks-proxy-agent/package.json
+604 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/sonic-boom/package.json
+605 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/source-map/package.json
+606 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/source-map-support/package.json
+607 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/sparse-bitfield/package.json
+608 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/split2/package.json
+609 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/spotify-web-api-node/package.json
+610 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/sshpk/package.json
+611 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/ssri/package.json
+612 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/statuses/package.json
+613 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/stealthy-require/package.json
+614 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/steno/package.json
+615 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/stream-shift/package.json
+616 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/string-template/package.json
+617 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/string-width/package.json
+618 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/string_decoder/package.json
+619 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/stringz/package.json
+620 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/strip-ansi/package.json
+621 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/strip-final-newline/package.json
+622 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/strip-json-comments/package.json
+623 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/strnum/package.json
+624 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/strtok3/package.json
+625 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/superagent/package.json
+626 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/supports-color/package.json
+627 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/symbol-tree/package.json
+628 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/syntax-error/package.json
+629 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/tar/package.json
+630 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/tar-fs/package.json
+631 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/tar-stream/package.json
+632 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/term-img/package.json
+633 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/terminal-image/package.json
+634 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/thread-stream/package.json
+635 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/through/package.json
+636 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/timers-ext/package.json
+637 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/timm/package.json
+638 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/tiny-emitter/package.json
+639 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/tinycolor2/package.json
+640 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/tlds/package.json
+641 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/to-readable-stream/package.json
+642 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/toidentifier/package.json
+643 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/token-types/package.json
+644 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/tough-cookie/package.json
+645 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/tr46/package.json
+646 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/translate-google-api/package.json
+647 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/traverse/package.json
+648 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/tslib/package.json
+649 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/ttys/package.json
+650 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/tunnel-agent/package.json
+651 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/tweetnacl/package.json
+652 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/type/package.json
+653 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/type-check/package.json
+654 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/type-fest/package.json
+655 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/type-is/package.json
+656 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/typed-function/package.json
+657 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/typedarray-to-buffer/package.json
+658 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/typical/package.json
+659 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/unbzip2-stream/package.json
+660 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/unique-filename/package.json
+661 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/unique-slug/package.json
+662 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/unique-string/package.json
+663 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/universalify/package.json
+664 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/unpipe/package.json
+665 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/unzipper/package.json
+666 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/uri-js/package.json
+667 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/url/package.json
+668 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/url-parse/package.json
+669 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/url-parse-lax/package.json
+670 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/url-regex/package.json
+671 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/url-regex-safe/package.json
+672 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/utif/package.json
+673 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/util/package.json
+674 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/util-deprecate/package.json
+675 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/utils-merge/package.json
+676 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/uuid/package.json
+677 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/validator/package.json
+678 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/vary/package.json
+679 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/verror/package.json
+680 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/w3c-hr-time/package.json
+681 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/w3c-xmlserializer/package.json
+682 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/wa-sticker-formatter/package.json
+683 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/wcwidth/package.json
+684 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/webidl-conversions/package.json
+685 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/whatsapp-web.js/package.json
+686 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/whatwg-encoding/package.json
+687 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/whatwg-mimetype/package.json
+688 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/whatwg-url/package.json
+689 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/which/package.json
+690 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/which-module/package.json
+691 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/which-typed-array/package.json
+692 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/wide-align/package.json
+693 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/window-size/package.json
+694 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/word-wrap/package.json
+695 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/wrap-ansi/package.json
+696 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/wrappy/package.json
+697 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/write-file-atomic/package.json
+698 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/ws/package.json
+699 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/xdg-basedir/package.json
+700 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/xhr/package.json
+701 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/xml-name-validator/package.json
+702 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/xml-parse-from-string/package.json
+703 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/xml2js/package.json
+704 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/xmlbuilder/package.json
+705 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/xmlchars/package.json
+706 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/xtend/package.json
+707 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/y18n/package.json
+708 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/yallist/package.json
+709 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/yargs/package.json
+710 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/yargs-parser/package.json
+711 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/yauzl/package.json
+712 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/yt-search/package.json
+713 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/ytdl-core/package.json
+714 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/zip-stream/package.json
+715 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/zs-extract/package.json
+716 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@adiwajshing/baileys/package.json
+717 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@adiwajshing/keyed-db/package.json
+718 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@assemblyscript/loader/package.json
+719 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@aws-crypto/ie11-detection/package.json
+720 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@aws-crypto/sha256-browser/package.json
+721 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@aws-crypto/sha256-js/package.json
+722 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@aws-crypto/supports-web-crypto/package.json
+723 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@aws-crypto/util/package.json
+724 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@aws-sdk/abort-controller/package.json
+725 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@aws-sdk/client-cognito-identity/package.json
+726 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@aws-sdk/client-sso/package.json
+727 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@aws-sdk/client-sso-oidc/package.json
+728 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@aws-sdk/client-sts/package.json
+729 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@aws-sdk/config-resolver/package.json
+730 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@aws-sdk/credential-provider-cognito-identity/package.json
+731 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@aws-sdk/credential-provider-env/package.json
+732 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@aws-sdk/credential-provider-imds/package.json
+733 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@aws-sdk/credential-provider-ini/package.json
+734 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@aws-sdk/credential-provider-node/package.json
+735 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@aws-sdk/credential-provider-process/package.json
+736 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@aws-sdk/credential-provider-sso/package.json
+737 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@aws-sdk/credential-provider-web-identity/package.json
+738 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@aws-sdk/credential-providers/package.json
+739 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@aws-sdk/fetch-http-handler/package.json
+740 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@aws-sdk/hash-node/package.json
+741 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@aws-sdk/invalid-dependency/package.json
+742 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@aws-sdk/is-array-buffer/package.json
+743 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@aws-sdk/middleware-content-length/package.json
+744 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@aws-sdk/middleware-endpoint/package.json
+745 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@aws-sdk/middleware-host-header/package.json
+746 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@aws-sdk/middleware-logger/package.json
+747 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@aws-sdk/middleware-recursion-detection/package.json
+748 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@aws-sdk/middleware-retry/package.json
+749 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@aws-sdk/middleware-sdk-sts/package.json
+750 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@aws-sdk/middleware-serde/package.json
+751 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@aws-sdk/middleware-signing/package.json
+752 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@aws-sdk/middleware-stack/package.json
+753 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@aws-sdk/middleware-user-agent/package.json
+754 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@aws-sdk/node-config-provider/package.json
+755 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@aws-sdk/node-http-handler/package.json
+756 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@aws-sdk/property-provider/package.json
+757 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@aws-sdk/protocol-http/package.json
+758 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@aws-sdk/querystring-builder/package.json
+759 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@aws-sdk/querystring-parser/package.json
+760 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@aws-sdk/service-error-classification/package.json
+761 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@aws-sdk/shared-ini-file-loader/package.json
+762 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@aws-sdk/signature-v4/package.json
+763 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@aws-sdk/smithy-client/package.json
+764 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@aws-sdk/token-providers/package.json
+765 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@aws-sdk/types/package.json
+766 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@aws-sdk/url-parser/package.json
+767 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@aws-sdk/util-base64/package.json
+768 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@aws-sdk/util-body-length-browser/package.json
+769 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@aws-sdk/util-body-length-node/package.json
+770 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@aws-sdk/util-buffer-from/package.json
+771 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@aws-sdk/util-config-provider/package.json
+772 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@aws-sdk/util-defaults-mode-browser/package.json
+773 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@aws-sdk/util-defaults-mode-node/package.json
+774 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@aws-sdk/util-endpoints/package.json
+775 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@aws-sdk/util-hex-encoding/package.json
+776 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@aws-sdk/util-locate-window/package.json
+777 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@aws-sdk/util-middleware/package.json
+778 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@aws-sdk/util-retry/package.json
+779 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@aws-sdk/util-uri-escape/package.json
+780 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@aws-sdk/util-user-agent-browser/package.json
+781 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@aws-sdk/util-user-agent-node/package.json
+782 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@aws-sdk/util-utf8/package.json
+783 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@aws-sdk/util-utf8-browser/package.json
+784 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@babel/runtime/package.json
+785 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@bochilteam/scraper/package.json
+786 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@gar/promisify/package.json
+787 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@hapi/boom/package.json
+788 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@hapi/hoek/package.json
+789 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@ibaraki-douji/pixivts/package.json
+790 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@javascript-obfuscator/escodegen/package.json
+791 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@javascript-obfuscator/estraverse/package.json
+792 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@jimp/bmp/package.json
+793 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@jimp/core/package.json
+794 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@jimp/custom/package.json
+795 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@jimp/gif/package.json
+796 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@jimp/jpeg/package.json
+797 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@jimp/plugin-blit/package.json
+798 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@jimp/plugin-blur/package.json
+799 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@jimp/plugin-circle/package.json
+800 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@jimp/plugin-color/package.json
+801 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@jimp/plugin-contain/package.json
+802 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@jimp/plugin-cover/package.json
+803 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@jimp/plugin-crop/package.json
+804 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@jimp/plugin-displace/package.json
+805 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@jimp/plugin-dither/package.json
+806 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@jimp/plugin-fisheye/package.json
+807 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@jimp/plugin-flip/package.json
+808 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@jimp/plugin-gaussian/package.json
+809 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@jimp/plugin-invert/package.json
+810 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@jimp/plugin-mask/package.json
+811 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@jimp/plugin-normalize/package.json
+812 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@jimp/plugin-print/package.json
+813 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@jimp/plugin-resize/package.json
+814 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@jimp/plugin-rotate/package.json
+815 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@jimp/plugin-scale/package.json
+816 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@jimp/plugin-shadow/package.json
+817 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@jimp/plugin-threshold/package.json
+818 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@jimp/plugins/package.json
+819 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@jimp/png/package.json
+820 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@jimp/tiff/package.json
+821 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@jimp/types/package.json
+822 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@jimp/utils/package.json
+823 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@npmcli/fs/package.json
+824 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@npmcli/move-file/package.json
+825 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@pedroslopez/moduleraid/package.json
+826 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@protobufjs/aspromise/package.json
+827 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@protobufjs/base64/package.json
+828 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@protobufjs/codegen/package.json
+829 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@protobufjs/eventemitter/package.json
+830 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@protobufjs/fetch/package.json
+831 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@protobufjs/float/package.json
+832 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@protobufjs/inquire/package.json
+833 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@protobufjs/path/package.json
+834 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@protobufjs/pool/package.json
+835 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@protobufjs/utf8/package.json
+836 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@sindresorhus/is/package.json
+837 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@socket.io/component-emitter/package.json
+838 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@szmarczak/http-timer/package.json
+839 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@tokenizer/token/package.json
+840 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@tootallnate/once/package.json
+841 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@types/cacheable-request/package.json
+842 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@types/cookie/package.json
+843 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@types/cors/package.json
+844 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@types/http-cache-semantics/package.json
+845 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@types/keyv/package.json
+846 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@types/long/package.json
+847 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@types/minimatch/package.json
+848 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@types/node/package.json
+849 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@types/responselike/package.json
+850 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@types/validator/package.json
+851 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@types/webidl-conversions/package.json
+852 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@types/whatwg-url/package.json
+853 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@types/yauzl/package.json
+854 verbose installManyTop reading scoped package data from /home/runner/botwa/node_modules/@vitalets/google-translate-api/package.json
+855 info package.json redstar@0.0.2 No README data
+856 info package.json setimmediate@1.0.5 No README data
+857 info package.json @tootallnate/once@1.1.2 No README data
+858 info package.json anonfile-lib@1.0.1 No repository field.
+859 info package.json assert@2.0.0 assert is also the name of a node core module.
+860 info package.json buffers@0.1.1 No license field.
+861 info package.json chainsaw@0.1.0 license should be a valid SPDX license expression
+862 info package.json buffer@5.7.1 buffer is also the name of a node core module.
+863 info package.json child_process@1.0.2 child_process is also the name of a node core module.
+864 info package.json crypto@1.0.1 crypto is also the name of a node core module.
+865 info package.json deobfuscator@2.4.2 license should be a valid SPDX license expression
+866 info package.json dom-walk@0.1.2 No license field.
+867 info package.json exif-parser@0.1.12 No license field.
+868 info package.json genshin@1.2.4 No repository field.
+869 info package.json genshin@1.2.4 license should be a valid SPDX license expression
+870 info package.json imagemagick@0.1.3 No license field.
+871 info package.json hdr-histogram-js@2.0.3 license should be a valid SPDX license expression
+872 info package.json lowdb@2.1.0 license should be a valid SPDX license expression
+873 info package.json min-document@2.19.0 No license field.
+874 info package.json minipass-collect@1.0.2 No repository field.
+875 info package.json minipass-pipeline@1.2.4 No repository field.
+876 info package.json npm@2.15.12 Non-dependency in bundleDependencies: ansi-regex
+877 info package.json npm@2.15.12 Non-dependency in bundleDependencies: imurmurhash
+878 info package.json path@0.12.7 path is also the name of a node core module.
+879 info package.json perf_hooks@0.0.1 perf_hooks is also the name of a node core module.
+880 info package.json peok@1.0.2 No repository field.
+881 info package.json prelude-ls@1.1.2 No license field.
+882 info package.json process@0.11.10 process is also the name of a node core module.
+883 info package.json qrcode-terminal@0.12.0 No license field.
+884 info package.json punycode@2.3.0 punycode is also the name of a node core module.
+885 info package.json querystring@0.2.0 querystring is also the name of a node core module.
+886 info package.json querystring@0.2.0 No license field.
+887 info package.json string_decoder@1.3.0 string_decoder is also the name of a node core module.
+888 info package.json traverse@0.3.9 license should be a valid SPDX license expression
+889 info package.json ttys@0.0.3 No license field.
+890 info package.json typed-function@2.1.0 No license field.
+891 info package.json url@0.11.0 url is also the name of a node core module.
+892 info package.json util@0.12.5 util is also the name of a node core module.
+893 info package.json @jimp/bmp@0.16.13 No repository field.
+894 info package.json @jimp/gif@0.16.13 No repository field.
+895 info package.json @jimp/plugin-blur@0.16.13 No repository field.
+896 info package.json @jimp/plugin-circle@0.16.13 No repository field.
+897 info package.json @jimp/jpeg@0.16.13 No repository field.
+898 info package.json @ibaraki-douji/pixivts@2.4.1 No repository field.
+899 info package.json @jimp/plugin-blit@0.16.13 No repository field.
+900 info package.json @jimp/plugin-cover@0.16.13 No repository field.
+901 info package.json @jimp/plugin-contain@0.16.13 No repository field.
+902 info package.json @jimp/plugin-displace@0.16.13 No repository field.
+903 info package.json @jimp/plugin-dither@0.16.13 No repository field.
+904 info package.json @jimp/plugin-crop@0.16.13 No repository field.
+905 info package.json @jimp/plugin-fisheye@0.16.13 No repository field.
+906 info package.json @jimp/plugin-flip@0.16.13 No repository field.
+907 info package.json @jimp/plugin-gaussian@0.16.13 No repository field.
+908 info package.json @jimp/plugin-mask@0.16.13 No repository field.
+909 info package.json @jimp/plugin-invert@0.16.13 No repository field.
+910 info package.json @jimp/plugin-normalize@0.16.13 No repository field.
+911 info package.json @jimp/plugin-print@0.16.13 No repository field.
+912 info package.json @jimp/plugin-resize@0.16.13 No repository field.
+913 info package.json @jimp/plugin-scale@0.16.13 No repository field.
+914 info package.json @jimp/plugin-rotate@0.16.13 No repository field.
+915 info package.json @jimp/plugin-threshold@0.16.13 No repository field.
+916 info package.json @jimp/plugins@0.16.13 No repository field.
+917 info package.json @jimp/png@0.16.13 No repository field.
+918 info package.json @bochilteam/scraper@0.0.81 license should be a valid SPDX license expression
+919 info package.json @jimp/types@0.16.13 No repository field.
+920 info package.json @jimp/tiff@0.16.13 No repository field.
+921 info package.json @jimp/utils@0.16.13 No repository field.
+922 info package.json @jimp/plugin-color@0.16.13 No repository field.
+923 info package.json @jimp/custom@0.16.13 No repository field.
+924 info package.json @jimp/plugin-shadow@0.16.13 No repository field.
+925 verbose readDependencies loading dependencies from /home/runner/botwa/package.json
+926 verbose install jimp is installed as 0.16.13
+927 silly cache add args [ 'jimp', null ]
+928 verbose cache add spec jimp
+929 silly cache add args [ '_0x5943b0(0x11e)', null ]
+930 verbose cache add spec _0x5943b0(0x11e)
+931 silly cache add args [ '_0x5943b0(0x122)', null ]
+932 verbose cache add spec _0x5943b0(0x122)
+933 silly cache add args [ 'path.join(pluginFolder,@filename)', null ]
+934 verbose cache add spec path.join(pluginFolder,@filename)
+935 silly cache add args [ 'dir', null ]
+936 verbose cache add spec dir
+937 silly cache add args [ 'jsbarcode', null ]
+938 verbose cache add spec jsbarcode
+939 silly cache add args [ 'file', null ]
+940 verbose cache add spec file
+941 silly cache add args [ 'xmldom', null ]
+942 verbose cache add spec xmldom
+943 verbose install steno is installed as 1.0.0
+944 silly cache add args [ 'steno', null ]
+945 verbose cache add spec steno
+946 verbose install ws is installed as 8.13.0
+947 silly cache add args [ 'ws', null ]
+948 verbose cache add spec ws
+949 silly cache add args [ '_0x5943b0(0x13a)', null ]
+950 verbose cache add spec _0x5943b0(0x13a)
+951 silly cache add parsed spec Result {
+951 silly cache add   raw: 'jimp',
+951 silly cache add   scope: null,
+951 silly cache add   name: 'jimp',
+951 silly cache add   rawSpec: '',
+951 silly cache add   spec: 'latest',
+951 silly cache add   type: 'tag'
+951 silly cache add }
+952 silly addNamed jimp@latest
+953 verbose addNamed "latest" is being treated as a dist-tag for jimp
+954 info addNameTag [ 'jimp', 'latest' ]
+955 silly mapToRegistry name jimp
+956 silly mapToRegistry using default registry
+957 silly mapToRegistry registry https://registry.npmjs.org/
+958 silly mapToRegistry data Result {
+958 silly mapToRegistry   raw: 'jimp',
+958 silly mapToRegistry   scope: null,
+958 silly mapToRegistry   name: 'jimp',
+958 silly mapToRegistry   rawSpec: '',
+958 silly mapToRegistry   spec: 'latest',
+958 silly mapToRegistry   type: 'tag'
+958 silly mapToRegistry }
+959 silly mapToRegistry uri https://registry.npmjs.org/jimp
+960 verbose addNameTag registry:https://registry.npmjs.org/jimp not in flight; fetching
+961 silly cache add parsed spec Result {
+961 silly cache add   raw: '_0x5943b0(0x11e)',
+961 silly cache add   scope: null,
+961 silly cache add   name: null,
+961 silly cache add   rawSpec: '_0x5943b0(0x11e)',
+961 silly cache add   spec: '/home/runner/botwa/_0x5943b0(0x11e)',
+961 silly cache add   type: 'local'
+961 silly cache add }
+962 silly cache add parsed spec Result {
+962 silly cache add   raw: '_0x5943b0(0x122)',
+962 silly cache add   scope: null,
+962 silly cache add   name: null,
+962 silly cache add   rawSpec: '_0x5943b0(0x122)',
+962 silly cache add   spec: '/home/runner/botwa/_0x5943b0(0x122)',
+962 silly cache add   type: 'local'
+962 silly cache add }
+963 silly cache add parsed spec Result {
+963 silly cache add   raw: 'path.join(pluginFolder,@filename)',
+963 silly cache add   scope: null,
+963 silly cache add   name: null,
+963 silly cache add   rawSpec: 'path.join(pluginFolder,@filename)',
+963 silly cache add   spec: '/home/runner/botwa/path.join(pluginFolder,@filename)',
+963 silly cache add   type: 'local'
+963 silly cache add }
+964 silly cache add parsed spec Result {
+964 silly cache add   raw: 'dir',
+964 silly cache add   scope: null,
+964 silly cache add   name: 'dir',
+964 silly cache add   rawSpec: '',
+964 silly cache add   spec: 'latest',
+964 silly cache add   type: 'tag'
+964 silly cache add }
+965 silly addNamed dir@latest
+966 verbose addNamed "latest" is being treated as a dist-tag for dir
+967 info addNameTag [ 'dir', 'latest' ]
+968 silly mapToRegistry name dir
+969 silly mapToRegistry using default registry
+970 silly mapToRegistry registry https://registry.npmjs.org/
+971 silly mapToRegistry data Result {
+971 silly mapToRegistry   raw: 'dir',
+971 silly mapToRegistry   scope: null,
+971 silly mapToRegistry   name: 'dir',
+971 silly mapToRegistry   rawSpec: '',
+971 silly mapToRegistry   spec: 'latest',
+971 silly mapToRegistry   type: 'tag'
+971 silly mapToRegistry }
+972 silly mapToRegistry uri https://registry.npmjs.org/dir
+973 verbose addNameTag registry:https://registry.npmjs.org/dir not in flight; fetching
+974 silly cache add parsed spec Result {
+974 silly cache add   raw: 'jsbarcode',
+974 silly cache add   scope: null,
+974 silly cache add   name: 'jsbarcode',
+974 silly cache add   rawSpec: '',
+974 silly cache add   spec: 'latest',
+974 silly cache add   type: 'tag'
+974 silly cache add }
+975 silly addNamed jsbarcode@latest
+976 verbose addNamed "latest" is being treated as a dist-tag for jsbarcode
+977 info addNameTag [ 'jsbarcode', 'latest' ]
+978 silly mapToRegistry name jsbarcode
+979 silly mapToRegistry using default registry
+980 silly mapToRegistry registry https://registry.npmjs.org/
+981 silly mapToRegistry data Result {
+981 silly mapToRegistry   raw: 'jsbarcode',
+981 silly mapToRegistry   scope: null,
+981 silly mapToRegistry   name: 'jsbarcode',
+981 silly mapToRegistry   rawSpec: '',
+981 silly mapToRegistry   spec: 'latest',
+981 silly mapToRegistry   type: 'tag'
+981 silly mapToRegistry }
+982 silly mapToRegistry uri https://registry.npmjs.org/jsbarcode
+983 verbose addNameTag registry:https://registry.npmjs.org/jsbarcode not in flight; fetching
+984 silly cache add parsed spec Result {
+984 silly cache add   raw: 'file',
+984 silly cache add   scope: null,
+984 silly cache add   name: 'file',
+984 silly cache add   rawSpec: '',
+984 silly cache add   spec: 'latest',
+984 silly cache add   type: 'tag'
+984 silly cache add }
+985 silly addNamed file@latest
+986 verbose addNamed "latest" is being treated as a dist-tag for file
+987 info addNameTag [ 'file', 'latest' ]
+988 silly mapToRegistry name file
+989 silly mapToRegistry using default registry
+990 silly mapToRegistry registry https://registry.npmjs.org/
+991 silly mapToRegistry data Result {
+991 silly mapToRegistry   raw: 'file',
+991 silly mapToRegistry   scope: null,
+991 silly mapToRegistry   name: 'file',
+991 silly mapToRegistry   rawSpec: '',
+991 silly mapToRegistry   spec: 'latest',
+991 silly mapToRegistry   type: 'tag'
+991 silly mapToRegistry }
+992 silly mapToRegistry uri https://registry.npmjs.org/file
+993 verbose addNameTag registry:https://registry.npmjs.org/file not in flight; fetching
+994 silly cache add parsed spec Result {
+994 silly cache add   raw: 'xmldom',
+994 silly cache add   scope: null,
+994 silly cache add   name: 'xmldom',
+994 silly cache add   rawSpec: '',
+994 silly cache add   spec: 'latest',
+994 silly cache add   type: 'tag'
+994 silly cache add }
+995 silly addNamed xmldom@latest
+996 verbose addNamed "latest" is being treated as a dist-tag for xmldom
+997 info addNameTag [ 'xmldom', 'latest' ]
+998 silly mapToRegistry name xmldom
+999 silly mapToRegistry using default registry
+1000 silly mapToRegistry registry https://registry.npmjs.org/
+1001 silly mapToRegistry data Result {
+1001 silly mapToRegistry   raw: 'xmldom',
+1001 silly mapToRegistry   scope: null,
+1001 silly mapToRegistry   name: 'xmldom',
+1001 silly mapToRegistry   rawSpec: '',
+1001 silly mapToRegistry   spec: 'latest',
+1001 silly mapToRegistry   type: 'tag'
+1001 silly mapToRegistry }
+1002 silly mapToRegistry uri https://registry.npmjs.org/xmldom
+1003 verbose addNameTag registry:https://registry.npmjs.org/xmldom not in flight; fetching
+1004 silly cache add parsed spec Result {
+1004 silly cache add   raw: 'steno',
+1004 silly cache add   scope: null,
+1004 silly cache add   name: 'steno',
+1004 silly cache add   rawSpec: '',
+1004 silly cache add   spec: 'latest',
+1004 silly cache add   type: 'tag'
+1004 silly cache add }
+1005 silly addNamed steno@latest
+1006 verbose addNamed "latest" is being treated as a dist-tag for steno
+1007 info addNameTag [ 'steno', 'latest' ]
+1008 silly mapToRegistry name steno
+1009 silly mapToRegistry using default registry
+1010 silly mapToRegistry registry https://registry.npmjs.org/
+1011 silly mapToRegistry data Result {
+1011 silly mapToRegistry   raw: 'steno',
+1011 silly mapToRegistry   scope: null,
+1011 silly mapToRegistry   name: 'steno',
+1011 silly mapToRegistry   rawSpec: '',
+1011 silly mapToRegistry   spec: 'latest',
+1011 silly mapToRegistry   type: 'tag'
+1011 silly mapToRegistry }
+1012 silly mapToRegistry uri https://registry.npmjs.org/steno
+1013 verbose addNameTag registry:https://registry.npmjs.org/steno not in flight; fetching
+1014 silly cache add parsed spec Result {
+1014 silly cache add   raw: 'ws',
+1014 silly cache add   scope: null,
+1014 silly cache add   name: 'ws',
+1014 silly cache add   rawSpec: '',
+1014 silly cache add   spec: 'latest',
+1014 silly cache add   type: 'tag'
+1014 silly cache add }
+1015 silly addNamed ws@latest
+1016 verbose addNamed "latest" is being treated as a dist-tag for ws
+1017 info addNameTag [ 'ws', 'latest' ]
+1018 silly mapToRegistry name ws
+1019 silly mapToRegistry using default registry
+1020 silly mapToRegistry registry https://registry.npmjs.org/
+1021 silly mapToRegistry data Result {
+1021 silly mapToRegistry   raw: 'ws',
+1021 silly mapToRegistry   scope: null,
+1021 silly mapToRegistry   name: 'ws',
+1021 silly mapToRegistry   rawSpec: '',
+1021 silly mapToRegistry   spec: 'latest',
+1021 silly mapToRegistry   type: 'tag'
+1021 silly mapToRegistry }
+1022 silly mapToRegistry uri https://registry.npmjs.org/ws
+1023 verbose addNameTag registry:https://registry.npmjs.org/ws not in flight; fetching
+1024 silly cache add parsed spec Result {
+1024 silly cache add   raw: '_0x5943b0(0x13a)',
+1024 silly cache add   scope: null,
+1024 silly cache add   name: null,
+1024 silly cache add   rawSpec: '_0x5943b0(0x13a)',
+1024 silly cache add   spec: '/home/runner/botwa/_0x5943b0(0x13a)',
+1024 silly cache add   type: 'local'
+1024 silly cache add }
+1025 verbose request uri https://registry.npmjs.org/jimp
+1026 verbose request no auth needed
+1027 info attempt registry request try #1 at 12:14:05 PM
+1028 verbose request id de23e26b23cdf035
+1029 http request GET https://registry.npmjs.org/jimp
+1030 error addLocal Could not install /home/runner/botwa/_0x5943b0(0x11e)
+1031 error addLocal Could not install /home/runner/botwa/_0x5943b0(0x122)
+1032 error addLocal Could not install /home/runner/botwa/path.join(pluginFolder,@filename)
+1033 verbose request uri https://registry.npmjs.org/dir
+1034 verbose request no auth needed
+1035 info attempt registry request try #1 at 12:14:05 PM
+1036 http request GET https://registry.npmjs.org/dir
+1037 verbose request uri https://registry.npmjs.org/jsbarcode
+1038 verbose request no auth needed
+1039 info attempt registry request try #1 at 12:14:05 PM
+1040 http request GET https://registry.npmjs.org/jsbarcode
+1041 verbose request uri https://registry.npmjs.org/file
+1042 verbose request no auth needed
+1043 info attempt registry request try #1 at 12:14:05 PM
+1044 http request GET https://registry.npmjs.org/file
+1045 verbose request uri https://registry.npmjs.org/xmldom
+1046 verbose request no auth needed
+1047 info attempt registry request try #1 at 12:14:05 PM
+1048 http request GET https://registry.npmjs.org/xmldom
+1049 verbose request uri https://registry.npmjs.org/steno
+1050 verbose request no auth needed
+1051 info attempt registry request try #1 at 12:14:05 PM
+1052 http request GET https://registry.npmjs.org/steno
+1053 verbose request uri https://registry.npmjs.org/ws
+1054 verbose request no auth needed
+1055 info attempt registry request try #1 at 12:14:05 PM
+1056 http request GET https://registry.npmjs.org/ws
+1057 error addLocal Could not install /home/runner/botwa/_0x5943b0(0x13a)
+1058 http 200 https://registry.npmjs.org/ws
+1059 verbose headers {
+1059 verbose headers   date: 'Wed, 21 Jun 2023 12:14:06 GMT',
+1059 verbose headers   'content-type': 'application/json',
+1059 verbose headers   'transfer-encoding': 'chunked',
+1059 verbose headers   connection: 'keep-alive',
+1059 verbose headers   'cf-ray': '7dac2b582f241d6a-ATL',
+1059 verbose headers   'cf-cache-status': 'HIT',
+1059 verbose headers   'access-control-allow-origin': '*',
+1059 verbose headers   age: '71',
+1059 verbose headers   'cache-control': 'public, max-age=300',
+1059 verbose headers   etag: 'W/"4c9f4426c398d6950b9bc2ca55a06c87"',
+1059 verbose headers   'last-modified': 'Fri, 10 Mar 2023 17:57:27 GMT',
+1059 verbose headers   vary: 'accept-encoding, accept',
+1059 verbose headers   'x-amz-replication-status': 'COMPLETED',
+1059 verbose headers   'x-amz-server-side-encryption': 'AES256',
+1059 verbose headers   server: 'cloudflare',
+1059 verbose headers   'content-encoding': 'gzip'
+1059 verbose headers }
+1060 silly get cb [
+1060 silly get   200,
+1060 silly get   {
+1060 silly get     date: 'Wed, 21 Jun 2023 12:14:06 GMT',
+1060 silly get     'content-type': 'application/json',
+1060 silly get     'transfer-encoding': 'chunked',
+1060 silly get     connection: 'keep-alive',
+1060 silly get     'cf-ray': '7dac2b582f241d6a-ATL',
+1060 silly get     'cf-cache-status': 'HIT',
+1060 silly get     'access-control-allow-origin': '*',
+1060 silly get     age: '71',
+1060 silly get     'cache-control': 'public, max-age=300',
+1060 silly get     etag: 'W/"4c9f4426c398d6950b9bc2ca55a06c87"',
+1060 silly get     'last-modified': 'Fri, 10 Mar 2023 17:57:27 GMT',
+1060 silly get     vary: 'accept-encoding, accept',
+1060 silly get     'x-amz-replication-status': 'COMPLETED',
+1060 silly get     'x-amz-server-side-encryption': 'AES256',
+1060 silly get     server: 'cloudflare',
+1060 silly get     'content-encoding': 'gzip'
+1060 silly get   }
+1060 silly get ]
+1061 verbose get saving ws to /home/runner/.npm/registry.npmjs.org/ws/.cache.json
+1062 verbose correctMkdir /home/runner/.npm correctMkdir not in flight; initializing
+1063 silly addNameTag next cb for ws with tag latest
+1064 silly addNamed ws@8.13.0
+1065 verbose addNamed "8.13.0" is a plain semver version for ws
+1066 silly mapToRegistry name ws
+1067 silly mapToRegistry using default registry
+1068 silly mapToRegistry registry https://registry.npmjs.org/
+1069 silly mapToRegistry data Result {
+1069 silly mapToRegistry   raw: 'ws',
+1069 silly mapToRegistry   scope: null,
+1069 silly mapToRegistry   name: 'ws',
+1069 silly mapToRegistry   rawSpec: '',
+1069 silly mapToRegistry   spec: 'latest',
+1069 silly mapToRegistry   type: 'tag'
+1069 silly mapToRegistry }
+1070 silly mapToRegistry uri https://registry.npmjs.org/ws
+1071 verbose addRemoteTarball https://registry.npmjs.org/ws/-/ws-8.13.0.tgz not in flight; adding
+1072 verbose addRemoteTarball [
+1072 verbose addRemoteTarball   'https://registry.npmjs.org/ws/-/ws-8.13.0.tgz',
+1072 verbose addRemoteTarball   '9a9fb92f93cf41512a0735c8f4dd09b8a1211cd0'
+1072 verbose addRemoteTarball ]
+1073 info retry fetch attempt 1 at 12:14:06 PM
+1074 info attempt registry request try #1 at 12:14:06 PM
+1075 http fetch GET https://registry.npmjs.org/ws/-/ws-8.13.0.tgz
+1076 http 200 https://registry.npmjs.org/jsbarcode
+1077 verbose headers {
+1077 verbose headers   date: 'Wed, 21 Jun 2023 12:14:06 GMT',
+1077 verbose headers   'content-type': 'application/json',
+1077 verbose headers   'transfer-encoding': 'chunked',
+1077 verbose headers   connection: 'keep-alive',
+1077 verbose headers   'cf-ray': '7dac2b581f3aada7-ATL',
+1077 verbose headers   'cf-cache-status': 'REVALIDATED',
+1077 verbose headers   'access-control-allow-origin': '*',
+1077 verbose headers   'cache-control': 'public, max-age=300',
+1077 verbose headers   etag: 'W/"460a3544c903cc6d753a3b4e867b864a"',
+1077 verbose headers   'last-modified': 'Sun, 19 Jun 2022 05:50:31 GMT',
+1077 verbose headers   vary: 'accept-encoding, accept',
+1077 verbose headers   'x-amz-replication-status': 'COMPLETED',
+1077 verbose headers   server: 'cloudflare',
+1077 verbose headers   'content-encoding': 'gzip'
+1077 verbose headers }
+1078 silly get cb [
+1078 silly get   200,
+1078 silly get   {
+1078 silly get     date: 'Wed, 21 Jun 2023 12:14:06 GMT',
+1078 silly get     'content-type': 'application/json',
+1078 silly get     'transfer-encoding': 'chunked',
+1078 silly get     connection: 'keep-alive',
+1078 silly get     'cf-ray': '7dac2b581f3aada7-ATL',
+1078 silly get     'cf-cache-status': 'REVALIDATED',
+1078 silly get     'access-control-allow-origin': '*',
+1078 silly get     'cache-control': 'public, max-age=300',
+1078 silly get     etag: 'W/"460a3544c903cc6d753a3b4e867b864a"',
+1078 silly get     'last-modified': 'Sun, 19 Jun 2022 05:50:31 GMT',
+1078 silly get     vary: 'accept-encoding, accept',
+1078 silly get     'x-amz-replication-status': 'COMPLETED',
+1078 silly get     server: 'cloudflare',
+1078 silly get     'content-encoding': 'gzip'
+1078 silly get   }
+1078 silly get ]
+1079 verbose get saving jsbarcode to /home/runner/.npm/registry.npmjs.org/jsbarcode/.cache.json
+1080 verbose correctMkdir /home/runner/.npm correctMkdir not in flight; initializing
+1081 silly addNameTag next cb for jsbarcode with tag latest
+1082 silly addNamed jsbarcode@3.11.5
+1083 verbose addNamed "3.11.5" is a plain semver version for jsbarcode
+1084 silly mapToRegistry name jsbarcode
+1085 silly mapToRegistry using default registry
+1086 silly mapToRegistry registry https://registry.npmjs.org/
+1087 silly mapToRegistry data Result {
+1087 silly mapToRegistry   raw: 'jsbarcode',
+1087 silly mapToRegistry   scope: null,
+1087 silly mapToRegistry   name: 'jsbarcode',
+1087 silly mapToRegistry   rawSpec: '',
+1087 silly mapToRegistry   spec: 'latest',
+1087 silly mapToRegistry   type: 'tag'
+1087 silly mapToRegistry }
+1088 silly mapToRegistry uri https://registry.npmjs.org/jsbarcode
+1089 verbose addRemoteTarball https://registry.npmjs.org/jsbarcode/-/jsbarcode-3.11.5.tgz not in flight; adding
+1090 verbose addRemoteTarball [
+1090 verbose addRemoteTarball   'https://registry.npmjs.org/jsbarcode/-/jsbarcode-3.11.5.tgz',
+1090 verbose addRemoteTarball   '390b3efd0271f35b9d68c7b8af6e972445969014'
+1090 verbose addRemoteTarball ]
+1091 info retry fetch attempt 1 at 12:14:06 PM
+1092 info attempt registry request try #1 at 12:14:06 PM
+1093 http fetch GET https://registry.npmjs.org/jsbarcode/-/jsbarcode-3.11.5.tgz
+1094 http 200 https://registry.npmjs.org/steno
+1095 verbose headers {
+1095 verbose headers   date: 'Wed, 21 Jun 2023 12:14:06 GMT',
+1095 verbose headers   'content-type': 'application/json',
+1095 verbose headers   'transfer-encoding': 'chunked',
+1095 verbose headers   connection: 'keep-alive',
+1095 verbose headers   'cf-ray': '7dac2b582e404578-ATL',
+1095 verbose headers   'cf-cache-status': 'REVALIDATED',
+1095 verbose headers   'access-control-allow-origin': '*',
+1095 verbose headers   'cache-control': 'public, max-age=300',
+1095 verbose headers   etag: 'W/"3a66f657e2b31b8ca92df340e2f18fab"',
+1095 verbose headers   'last-modified': 'Sat, 04 Mar 2023 05:05:11 GMT',
+1095 verbose headers   vary: 'accept-encoding, accept',
+1095 verbose headers   'x-amz-replication-status': 'COMPLETED',
+1095 verbose headers   'x-amz-server-side-encryption': 'AES256',
+1095 verbose headers   server: 'cloudflare',
+1095 verbose headers   'content-encoding': 'gzip'
+1095 verbose headers }
+1096 silly get cb [
+1096 silly get   200,
+1096 silly get   {
+1096 silly get     date: 'Wed, 21 Jun 2023 12:14:06 GMT',
+1096 silly get     'content-type': 'application/json',
+1096 silly get     'transfer-encoding': 'chunked',
+1096 silly get     connection: 'keep-alive',
+1096 silly get     'cf-ray': '7dac2b582e404578-ATL',
+1096 silly get     'cf-cache-status': 'REVALIDATED',
+1096 silly get     'access-control-allow-origin': '*',
+1096 silly get     'cache-control': 'public, max-age=300',
+1096 silly get     etag: 'W/"3a66f657e2b31b8ca92df340e2f18fab"',
+1096 silly get     'last-modified': 'Sat, 04 Mar 2023 05:05:11 GMT',
+1096 silly get     vary: 'accept-encoding, accept',
+1096 silly get     'x-amz-replication-status': 'COMPLETED',
+1096 silly get     'x-amz-server-side-encryption': 'AES256',
+1096 silly get     server: 'cloudflare',
+1096 silly get     'content-encoding': 'gzip'
+1096 silly get   }
+1096 silly get ]
+1097 verbose get saving steno to /home/runner/.npm/registry.npmjs.org/steno/.cache.json
+1098 verbose correctMkdir /home/runner/.npm correctMkdir not in flight; initializing
+1099 http fetch 200 https://registry.npmjs.org/ws/-/ws-8.13.0.tgz
+1100 silly addNameTag next cb for steno with tag latest
+1101 silly addNamed steno@3.0.0
+1102 verbose addNamed "3.0.0" is a plain semver version for steno
+1103 silly mapToRegistry name steno
+1104 silly mapToRegistry using default registry
+1105 silly mapToRegistry registry https://registry.npmjs.org/
+1106 silly mapToRegistry data Result {
+1106 silly mapToRegistry   raw: 'steno',
+1106 silly mapToRegistry   scope: null,
+1106 silly mapToRegistry   name: 'steno',
+1106 silly mapToRegistry   rawSpec: '',
+1106 silly mapToRegistry   spec: 'latest',
+1106 silly mapToRegistry   type: 'tag'
+1106 silly mapToRegistry }
+1107 silly mapToRegistry uri https://registry.npmjs.org/steno
+1108 verbose addRemoteTarball https://registry.npmjs.org/steno/-/steno-3.0.0.tgz not in flight; adding
+1109 verbose addRemoteTarball [
+1109 verbose addRemoteTarball   'https://registry.npmjs.org/steno/-/steno-3.0.0.tgz',
+1109 verbose addRemoteTarball   '212a11e8ef3646b610efc8953842f556fd0df28f'
+1109 verbose addRemoteTarball ]
+1110 http 200 https://registry.npmjs.org/dir
+1111 verbose headers {
+1111 verbose headers   date: 'Wed, 21 Jun 2023 12:14:06 GMT',
+1111 verbose headers   'content-type': 'application/json',
+1111 verbose headers   'transfer-encoding': 'chunked',
+1111 verbose headers   connection: 'keep-alive',
+1111 verbose headers   'cf-ray': '7dac2b580e83acec-ATL',
+1111 verbose headers   'cf-cache-status': 'MISS',
+1111 verbose headers   'access-control-allow-origin': '*',
+1111 verbose headers   'cache-control': 'public, max-age=300',
+1111 verbose headers   etag: 'W/"2cb7efaab18baf52b7c116a5e6c7cf32"',
+1111 verbose headers   'last-modified': 'Wed, 15 Jun 2022 04:23:31 GMT',
+1111 verbose headers   vary: 'accept-encoding, accept',
+1111 verbose headers   'x-amz-replication-status': 'COMPLETED',
+1111 verbose headers   server: 'cloudflare',
+1111 verbose headers   'content-encoding': 'gzip'
+1111 verbose headers }
+1112 silly get cb [
+1112 silly get   200,
+1112 silly get   {
+1112 silly get     date: 'Wed, 21 Jun 2023 12:14:06 GMT',
+1112 silly get     'content-type': 'application/json',
+1112 silly get     'transfer-encoding': 'chunked',
+1112 silly get     connection: 'keep-alive',
+1112 silly get     'cf-ray': '7dac2b580e83acec-ATL',
+1112 silly get     'cf-cache-status': 'MISS',
+1112 silly get     'access-control-allow-origin': '*',
+1112 silly get     'cache-control': 'public, max-age=300',
+1112 silly get     etag: 'W/"2cb7efaab18baf52b7c116a5e6c7cf32"',
+1112 silly get     'last-modified': 'Wed, 15 Jun 2022 04:23:31 GMT',
+1112 silly get     vary: 'accept-encoding, accept',
+1112 silly get     'x-amz-replication-status': 'COMPLETED',
+1112 silly get     server: 'cloudflare',
+1112 silly get     'content-encoding': 'gzip'
+1112 silly get   }
+1112 silly get ]
+1113 verbose get saving dir to /home/runner/.npm/registry.npmjs.org/dir/.cache.json
+1114 verbose correctMkdir /home/runner/.npm correctMkdir not in flight; initializing
+1115 http fetch 200 https://registry.npmjs.org/jsbarcode/-/jsbarcode-3.11.5.tgz
+1116 info retry fetch attempt 1 at 12:14:06 PM
+1117 info attempt registry request try #1 at 12:14:06 PM
+1118 http fetch GET https://registry.npmjs.org/steno/-/steno-3.0.0.tgz
+1119 silly fetchAndShaCheck shasum 9a9fb92f93cf41512a0735c8f4dd09b8a1211cd0
+1120 verbose addTmpTarball /tmp/npm-4265-4596976f/registry.npmjs.org/ws/-/ws-8.13.0.tgz not in flight; adding
+1121 verbose addTmpTarball already have metadata; skipping unpack for ws@8.13.0
+1122 verbose correctMkdir /home/runner/.npm correctMkdir not in flight; initializing
+1123 silly addNameTag next cb for dir with tag latest
+1124 silly addNamed dir@0.1.2
+1125 verbose addNamed "0.1.2" is a plain semver version for dir
+1126 silly mapToRegistry name dir
+1127 silly mapToRegistry using default registry
+1128 silly mapToRegistry registry https://registry.npmjs.org/
+1129 silly mapToRegistry data Result {
+1129 silly mapToRegistry   raw: 'dir',
+1129 silly mapToRegistry   scope: null,
+1129 silly mapToRegistry   name: 'dir',
+1129 silly mapToRegistry   rawSpec: '',
+1129 silly mapToRegistry   spec: 'latest',
+1129 silly mapToRegistry   type: 'tag'
+1129 silly mapToRegistry }
+1130 silly mapToRegistry uri https://registry.npmjs.org/dir
+1131 verbose addRemoteTarball https://registry.npmjs.org/dir/-/dir-0.1.2.tgz not in flight; adding
+1132 verbose addRemoteTarball [
+1132 verbose addRemoteTarball   'https://registry.npmjs.org/dir/-/dir-0.1.2.tgz',
+1132 verbose addRemoteTarball   'beb2a2d8ff1000891a7b06192de29cf22c0d3461'
+1132 verbose addRemoteTarball ]
+1133 info retry fetch attempt 1 at 12:14:06 PM
+1134 info attempt registry request try #1 at 12:14:06 PM
+1135 http fetch GET https://registry.npmjs.org/dir/-/dir-0.1.2.tgz
+1136 http fetch 200 https://registry.npmjs.org/steno/-/steno-3.0.0.tgz
+1137 silly fetchAndShaCheck shasum 212a11e8ef3646b610efc8953842f556fd0df28f
+1138 silly fetchAndShaCheck shasum 390b3efd0271f35b9d68c7b8af6e972445969014
+1139 silly cache afterAdd ws@8.13.0
+1140 verbose afterAdd /home/runner/.npm/ws/8.13.0/package/package.json not in flight; writing
+1141 verbose correctMkdir /home/runner/.npm correctMkdir not in flight; initializing
+1142 verbose addTmpTarball /tmp/npm-4265-4596976f/registry.npmjs.org/steno/-/steno-3.0.0.tgz not in flight; adding
+1143 verbose addTmpTarball already have metadata; skipping unpack for steno@3.0.0
+1144 verbose correctMkdir /home/runner/.npm correctMkdir not in flight; initializing
+1145 verbose addTmpTarball /tmp/npm-4265-4596976f/registry.npmjs.org/jsbarcode/-/jsbarcode-3.11.5.tgz not in flight; adding
+1146 verbose addTmpTarball already have metadata; skipping unpack for jsbarcode@3.11.5
+1147 verbose correctMkdir /home/runner/.npm correctMkdir not in flight; initializing
+1148 verbose afterAdd /home/runner/.npm/ws/8.13.0/package/package.json written
+1149 silly cache afterAdd steno@3.0.0
+1150 verbose afterAdd /home/runner/.npm/steno/3.0.0/package/package.json not in flight; writing
+1151 verbose correctMkdir /home/runner/.npm correctMkdir not in flight; initializing
+1152 verbose afterAdd /home/runner/.npm/steno/3.0.0/package/package.json written
+1153 silly cache afterAdd jsbarcode@3.11.5
+1154 verbose afterAdd /home/runner/.npm/jsbarcode/3.11.5/package/package.json not in flight; writing
+1155 verbose correctMkdir /home/runner/.npm correctMkdir not in flight; initializing
+1156 verbose afterAdd /home/runner/.npm/jsbarcode/3.11.5/package/package.json written
+1157 http 200 https://registry.npmjs.org/file
+1158 verbose headers {
+1158 verbose headers   date: 'Wed, 21 Jun 2023 12:14:06 GMT',
+1158 verbose headers   'content-type': 'application/json',
+1158 verbose headers   'transfer-encoding': 'chunked',
+1158 verbose headers   connection: 'keep-alive',
+1158 verbose headers   'cf-ray': '7dac2b581ba11d68-ATL',
+1158 verbose headers   'cf-cache-status': 'REVALIDATED',
+1158 verbose headers   'access-control-allow-origin': '*',
+1158 verbose headers   'cache-control': 'public, max-age=300',
+1158 verbose headers   etag: 'W/"04dcba0fc91829e96da504568dc2ca34"',
+1158 verbose headers   'last-modified': 'Sat, 18 Jun 2022 00:33:49 GMT',
+1158 verbose headers   vary: 'accept-encoding, accept',
+1158 verbose headers   'x-amz-replication-status': 'COMPLETED',
+1158 verbose headers   server: 'cloudflare',
+1158 verbose headers   'content-encoding': 'gzip'
+1158 verbose headers }
+1159 silly get cb [
+1159 silly get   200,
+1159 silly get   {
+1159 silly get     date: 'Wed, 21 Jun 2023 12:14:06 GMT',
+1159 silly get     'content-type': 'application/json',
+1159 silly get     'transfer-encoding': 'chunked',
+1159 silly get     connection: 'keep-alive',
+1159 silly get     'cf-ray': '7dac2b581ba11d68-ATL',
+1159 silly get     'cf-cache-status': 'REVALIDATED',
+1159 silly get     'access-control-allow-origin': '*',
+1159 silly get     'cache-control': 'public, max-age=300',
+1159 silly get     etag: 'W/"04dcba0fc91829e96da504568dc2ca34"',
+1159 silly get     'last-modified': 'Sat, 18 Jun 2022 00:33:49 GMT',
+1159 silly get     vary: 'accept-encoding, accept',
+1159 silly get     'x-amz-replication-status': 'COMPLETED',
+1159 silly get     server: 'cloudflare',
+1159 silly get     'content-encoding': 'gzip'
+1159 silly get   }
+1159 silly get ]
+1160 verbose get saving file to /home/runner/.npm/registry.npmjs.org/file/.cache.json
+1161 verbose correctMkdir /home/runner/.npm correctMkdir not in flight; initializing
+1162 http 200 https://registry.npmjs.org/xmldom
+1163 verbose headers {
+1163 verbose headers   date: 'Wed, 21 Jun 2023 12:14:06 GMT',
+1163 verbose headers   'content-type': 'application/json',
+1163 verbose headers   'transfer-encoding': 'chunked',
+1163 verbose headers   connection: 'keep-alive',
+1163 verbose headers   'cf-ray': '7dac2b582bc2b06f-ATL',
+1163 verbose headers   'cf-cache-status': 'REVALIDATED',
+1163 verbose headers   'access-control-allow-origin': '*',
+1163 verbose headers   'cache-control': 'public, max-age=300',
+1163 verbose headers   etag: 'W/"38e00d13bb2485987ad01d63a97aa65f"',
+1163 verbose headers   'last-modified': 'Wed, 03 Aug 2022 17:12:34 GMT',
+1163 verbose headers   vary: 'accept-encoding, accept',
+1163 verbose headers   'x-amz-replication-status': 'COMPLETED',
+1163 verbose headers   server: 'cloudflare',
+1163 verbose headers   'content-encoding': 'gzip'
+1163 verbose headers }
+1164 silly get cb [
+1164 silly get   200,
+1164 silly get   {
+1164 silly get     date: 'Wed, 21 Jun 2023 12:14:06 GMT',
+1164 silly get     'content-type': 'application/json',
+1164 silly get     'transfer-encoding': 'chunked',
+1164 silly get     connection: 'keep-alive',
+1164 silly get     'cf-ray': '7dac2b582bc2b06f-ATL',
+1164 silly get     'cf-cache-status': 'REVALIDATED',
+1164 silly get     'access-control-allow-origin': '*',
+1164 silly get     'cache-control': 'public, max-age=300',
+1164 silly get     etag: 'W/"38e00d13bb2485987ad01d63a97aa65f"',
+1164 silly get     'last-modified': 'Wed, 03 Aug 2022 17:12:34 GMT',
+1164 silly get     vary: 'accept-encoding, accept',
+1164 silly get     'x-amz-replication-status': 'COMPLETED',
+1164 silly get     server: 'cloudflare',
+1164 silly get     'content-encoding': 'gzip'
+1164 silly get   }
+1164 silly get ]
+1165 verbose get saving xmldom to /home/runner/.npm/registry.npmjs.org/xmldom/.cache.json
+1166 verbose correctMkdir /home/runner/.npm correctMkdir not in flight; initializing
+1167 silly addNameTag next cb for file with tag latest
+1168 silly addNamed file@0.2.2
+1169 verbose addNamed "0.2.2" is a plain semver version for file
+1170 silly mapToRegistry name file
+1171 silly mapToRegistry using default registry
+1172 silly mapToRegistry registry https://registry.npmjs.org/
+1173 silly mapToRegistry data Result {
+1173 silly mapToRegistry   raw: 'file',
+1173 silly mapToRegistry   scope: null,
+1173 silly mapToRegistry   name: 'file',
+1173 silly mapToRegistry   rawSpec: '',
+1173 silly mapToRegistry   spec: 'latest',
+1173 silly mapToRegistry   type: 'tag'
+1173 silly mapToRegistry }
+1174 silly mapToRegistry uri https://registry.npmjs.org/file
+1175 verbose addRemoteTarball https://registry.npmjs.org/file/-/file-0.2.2.tgz not in flight; adding
+1176 verbose addRemoteTarball [
+1176 verbose addRemoteTarball   'https://registry.npmjs.org/file/-/file-0.2.2.tgz',
+1176 verbose addRemoteTarball   'c3dfd8f8cf3535ae455c2b423c2e52635d76b4d3'
+1176 verbose addRemoteTarball ]
+1177 info retry fetch attempt 1 at 12:14:06 PM
+1178 info attempt registry request try #1 at 12:14:06 PM
+1179 http fetch GET https://registry.npmjs.org/file/-/file-0.2.2.tgz
+1180 silly addNameTag next cb for xmldom with tag latest
+1181 silly addNamed xmldom@0.6.0
+1182 verbose addNamed "0.6.0" is a plain semver version for xmldom
+1183 silly mapToRegistry name xmldom
+1184 silly mapToRegistry using default registry
+1185 silly mapToRegistry registry https://registry.npmjs.org/
+1186 silly mapToRegistry data Result {
+1186 silly mapToRegistry   raw: 'xmldom',
+1186 silly mapToRegistry   scope: null,
+1186 silly mapToRegistry   name: 'xmldom',
+1186 silly mapToRegistry   rawSpec: '',
+1186 silly mapToRegistry   spec: 'latest',
+1186 silly mapToRegistry   type: 'tag'
+1186 silly mapToRegistry }
+1187 silly mapToRegistry uri https://registry.npmjs.org/xmldom
+1188 verbose addRemoteTarball https://registry.npmjs.org/xmldom/-/xmldom-0.6.0.tgz not in flight; adding
+1189 verbose addRemoteTarball [
+1189 verbose addRemoteTarball   'https://registry.npmjs.org/xmldom/-/xmldom-0.6.0.tgz',
+1189 verbose addRemoteTarball   '43a96ecb8beece991cef382c08397d82d4d0c46f'
+1189 verbose addRemoteTarball ]
+1190 info retry fetch attempt 1 at 12:14:06 PM
+1191 info attempt registry request try #1 at 12:14:06 PM
+1192 http fetch GET https://registry.npmjs.org/xmldom/-/xmldom-0.6.0.tgz
+1193 http fetch 200 https://registry.npmjs.org/file/-/file-0.2.2.tgz
+1194 http fetch 200 https://registry.npmjs.org/xmldom/-/xmldom-0.6.0.tgz
+1195 http fetch 200 https://registry.npmjs.org/dir/-/dir-0.1.2.tgz
+1196 silly fetchAndShaCheck shasum c3dfd8f8cf3535ae455c2b423c2e52635d76b4d3
+1197 silly fetchAndShaCheck shasum beb2a2d8ff1000891a7b06192de29cf22c0d3461
+1198 verbose addTmpTarball /tmp/npm-4265-4596976f/registry.npmjs.org/file/-/file-0.2.2.tgz not in flight; adding
+1199 verbose addTmpTarball already have metadata; skipping unpack for file@0.2.2
+1200 verbose correctMkdir /home/runner/.npm correctMkdir not in flight; initializing
+1201 silly fetchAndShaCheck shasum 43a96ecb8beece991cef382c08397d82d4d0c46f
+1202 verbose addTmpTarball /tmp/npm-4265-4596976f/registry.npmjs.org/dir/-/dir-0.1.2.tgz not in flight; adding
+1203 verbose addTmpTarball already have metadata; skipping unpack for dir@0.1.2
+1204 verbose correctMkdir /home/runner/.npm correctMkdir not in flight; initializing
+1205 verbose addTmpTarball /tmp/npm-4265-4596976f/registry.npmjs.org/xmldom/-/xmldom-0.6.0.tgz not in flight; adding
+1206 verbose addTmpTarball already have metadata; skipping unpack for xmldom@0.6.0
+1207 verbose correctMkdir /home/runner/.npm correctMkdir not in flight; initializing
+1208 silly cache afterAdd file@0.2.2
+1209 verbose afterAdd /home/runner/.npm/file/0.2.2/package/package.json not in flight; writing
+1210 verbose correctMkdir /home/runner/.npm correctMkdir not in flight; initializing
+1211 silly cache afterAdd dir@0.1.2
+1212 verbose afterAdd /home/runner/.npm/dir/0.1.2/package/package.json not in flight; writing
+1213 verbose correctMkdir /home/runner/.npm correctMkdir not in flight; initializing
+1214 verbose afterAdd /home/runner/.npm/file/0.2.2/package/package.json written
+1215 silly cache afterAdd xmldom@0.6.0
+1216 verbose afterAdd /home/runner/.npm/xmldom/0.6.0/package/package.json not in flight; writing
+1217 verbose correctMkdir /home/runner/.npm correctMkdir not in flight; initializing
+1218 verbose afterAdd /home/runner/.npm/dir/0.1.2/package/package.json written
+1219 verbose afterAdd /home/runner/.npm/xmldom/0.6.0/package/package.json written
+1220 http 200 https://registry.npmjs.org/jimp
+1221 verbose headers {
+1221 verbose headers   date: 'Wed, 21 Jun 2023 12:14:06 GMT',
+1221 verbose headers   'content-type': 'application/json',
+1221 verbose headers   'transfer-encoding': 'chunked',
+1221 verbose headers   connection: 'keep-alive',
+1221 verbose headers   'cf-ray': '7dac2b57fb6f244f-ATL',
+1221 verbose headers   'cf-cache-status': 'REVALIDATED',
+1221 verbose headers   'access-control-allow-origin': '*',
+1221 verbose headers   'cache-control': 'public, max-age=300',
+1221 verbose headers   etag: 'W/"b2fcfee03b667557de55df87e2ba518f"',
+1221 verbose headers   'last-modified': 'Thu, 11 May 2023 01:52:31 GMT',
+1221 verbose headers   vary: 'accept-encoding, accept',
+1221 verbose headers   'x-amz-replication-status': 'PENDING',
+1221 verbose headers   'x-amz-server-side-encryption': 'AES256',
+1221 verbose headers   server: 'cloudflare',
+1221 verbose headers   'content-encoding': 'gzip'
+1221 verbose headers }
+1222 silly get cb [
+1222 silly get   200,
+1222 silly get   {
+1222 silly get     date: 'Wed, 21 Jun 2023 12:14:06 GMT',
+1222 silly get     'content-type': 'application/json',
+1222 silly get     'transfer-encoding': 'chunked',
+1222 silly get     connection: 'keep-alive',
+1222 silly get     'cf-ray': '7dac2b57fb6f244f-ATL',
+1222 silly get     'cf-cache-status': 'REVALIDATED',
+1222 silly get     'access-control-allow-origin': '*',
+1222 silly get     'cache-control': 'public, max-age=300',
+1222 silly get     etag: 'W/"b2fcfee03b667557de55df87e2ba518f"',
+1222 silly get     'last-modified': 'Thu, 11 May 2023 01:52:31 GMT',
+1222 silly get     vary: 'accept-encoding, accept',
+1222 silly get     'x-amz-replication-status': 'PENDING',
+1222 silly get     'x-amz-server-side-encryption': 'AES256',
+1222 silly get     server: 'cloudflare',
+1222 silly get     'content-encoding': 'gzip'
+1222 silly get   }
+1222 silly get ]
+1223 verbose get saving jimp to /home/runner/.npm/registry.npmjs.org/jimp/.cache.json
+1224 verbose correctMkdir /home/runner/.npm correctMkdir not in flight; initializing
+1225 silly addNameTag next cb for jimp with tag latest
+1226 silly addNamed jimp@0.22.8
+1227 verbose addNamed "0.22.8" is a plain semver version for jimp
+1228 silly mapToRegistry name jimp
+1229 silly mapToRegistry using default registry
+1230 silly mapToRegistry registry https://registry.npmjs.org/
+1231 silly mapToRegistry data Result {
+1231 silly mapToRegistry   raw: 'jimp',
+1231 silly mapToRegistry   scope: null,
+1231 silly mapToRegistry   name: 'jimp',
+1231 silly mapToRegistry   rawSpec: '',
+1231 silly mapToRegistry   spec: 'latest',
+1231 silly mapToRegistry   type: 'tag'
+1231 silly mapToRegistry }
+1232 silly mapToRegistry uri https://registry.npmjs.org/jimp
+1233 verbose addRemoteTarball https://registry.npmjs.org/jimp/-/jimp-0.22.8.tgz not in flight; adding
+1234 verbose addRemoteTarball [
+1234 verbose addRemoteTarball   'https://registry.npmjs.org/jimp/-/jimp-0.22.8.tgz',
+1234 verbose addRemoteTarball   '85db9a2de69370c36d8b5ae070381af83dbbb40f'
+1234 verbose addRemoteTarball ]
+1235 info retry fetch attempt 1 at 12:14:07 PM
+1236 info attempt registry request try #1 at 12:14:07 PM
+1237 http fetch GET https://registry.npmjs.org/jimp/-/jimp-0.22.8.tgz
+1238 http fetch 200 https://registry.npmjs.org/jimp/-/jimp-0.22.8.tgz
+1239 silly fetchAndShaCheck shasum 85db9a2de69370c36d8b5ae070381af83dbbb40f
+1240 verbose addTmpTarball /tmp/npm-4265-4596976f/registry.npmjs.org/jimp/-/jimp-0.22.8.tgz not in flight; adding
+1241 verbose addTmpTarball already have metadata; skipping unpack for jimp@0.22.8
+1242 verbose correctMkdir /home/runner/.npm correctMkdir not in flight; initializing
+1243 silly cache afterAdd jimp@0.22.8
+1244 verbose afterAdd /home/runner/.npm/jimp/0.22.8/package/package.json not in flight; writing
+1245 verbose correctMkdir /home/runner/.npm correctMkdir not in flight; initializing
+1246 verbose afterAdd /home/runner/.npm/jimp/0.22.8/package/package.json written
+1247 verbose stack Error: ENOENT: no such file or directory, open '/home/runner/botwa/_0x5943b0(0x11e)'
+1248 verbose cwd /home/runner/botwa
+1249 error Linux 5.19.0-1026-gcp
+1250 error argv "/nix/store/dj805sw07vvpbxx39c8g67x8qddg0ikw-nodejs-18.12.1/bin/node" "/home/runner/botwa/node_modules/.bin/npm" "install" "jimp" "_0x5943b0(0x11e)" "_0x5943b0(0x122)" "path.join(pluginFolder,@filename)" "dir" "jsbarcode" "file" "xmldom" "steno" "ws" "_0x5943b0(0x13a)"
+1251 error node v18.12.1
+1252 error npm  v2.15.12
+1253 error path /home/runner/botwa/_0x5943b0(0x11e)
+1254 error code ENOENT
+1255 error errno -2
+1256 error syscall open
+1257 error enoent ENOENT: no such file or directory, open '/home/runner/botwa/_0x5943b0(0x11e)'
+1257 error enoent This is most likely not a problem with npm itself
+1257 error enoent and is related to npm not being able to find a file.
+1258 verbose exit [ -2, true ]
